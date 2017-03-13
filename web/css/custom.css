@@ -1,0 +1,12 @@
+.adheader {
+  background: lightblue;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.lightcyan {
+  background: lightcyan;
+}
+.row{
+  margin-bottom:10px;
+}
